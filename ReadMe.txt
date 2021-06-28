@@ -1,3 +1,5 @@
+Video demo available at: https://youtu.be/5tpB63033Eg
+
 Sarah Batta, Arushi Srivastava, Stephanie Cao, Madelyn Dempsey
 
 In order to interact with our program, you should open up TweetGUI.java, which contains a main 
